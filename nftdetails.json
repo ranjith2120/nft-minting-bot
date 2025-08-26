@@ -1,0 +1,332 @@
+[
+  {
+    "name": "Cosmic Warriors #001",
+    "description": "A legendary warrior from the depths of space, wielding cosmic energy and ancient wisdom. This NFT represents the first in a series of galactic defenders.",
+    "image": "creator1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Nebula Purple"
+      },
+      {
+        "trait_type": "Character Type",
+        "value": "Warrior"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Power Level",
+        "value": 95
+      },
+      {
+        "trait_type": "Element",
+        "value": "Cosmic"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Energy Blade"
+      }
+    ],
+    "external_url": "https://yourwebsite.com/nft/001",
+    "background_color": "1a0033"
+  },
+  {
+    "name": "Digital Phoenix #002",
+    "description": "Born from the ashes of the digital realm, this phoenix soars through cyberspace bringing renewal and transformation to the blockchain.",
+    "image": "creator2.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Cyber Blue"
+      },
+      {
+        "trait_type": "Character Type",
+        "value": "Mythical Beast"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Power Level",
+        "value": 88
+      },
+      {
+        "trait_type": "Element",
+        "value": "Fire"
+      },
+      {
+        "trait_type": "Special Ability",
+        "value": "Rebirth"
+      }
+    ],
+    "external_url": "https://yourwebsite.com/nft/002",
+    "background_color": "001a33"
+  },
+  {
+    "name": "Neon Samurai #003",
+    "description": "A master of the blade infused with neon energy, protecting the digital realm with honor and precision. The way of the cyber-samurai.",
+    "image": "creator3.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Tokyo Neon"
+      },
+      {
+        "trait_type": "Character Type",
+        "value": "Samurai"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Power Level",
+        "value": 82
+      },
+      {
+        "trait_type": "Element",
+        "value": "Lightning"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Katana"
+      }
+    ],
+    "external_url": "https://yourwebsite.com/nft/003",
+    "background_color": "ff0066"
+  },
+  {
+    "name": "Crystal Dragon #004",
+    "description": "A majestic dragon made of pure crystal, guardian of the ethereal treasures and keeper of ancient blockchain secrets.",
+    "image": "creator4.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Crystal Cave"
+      },
+      {
+        "trait_type": "Character Type",
+        "value": "Dragon"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Power Level",
+        "value": 92
+      },
+      {
+        "trait_type": "Element",
+        "value": "Crystal"
+      },
+      {
+        "trait_type": "Special Ability",
+        "value": "Time Freeze"
+      }
+    ],
+    "external_url": "https://yourwebsite.com/nft/004",
+    "background_color": "66ffcc"
+  },
+  {
+    "name": "Cyber Assassin #005",
+    "description": "A silent hunter in the digital shadows, equipped with advanced tech and unmatched stealth capabilities in the metaverse.",
+    "image": "creator5.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Dark Circuit"
+      },
+      {
+        "trait_type": "Character Type",
+        "value": "Assassin"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Power Level",
+        "value": 85
+      },
+      {
+        "trait_type": "Element",
+        "value": "Shadow"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Plasma Daggers"
+      }
+    ],
+    "external_url": "https://yourwebsite.com/nft/005",
+    "background_color": "000000"
+  },
+  {
+    "name": "Mystic Sorceress #006",
+    "description": "A powerful magic wielder from the ethereal plane, channeling ancient spells through modern blockchain technology.",
+    "image": "creator6.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Enchanted Forest"
+      },
+      {
+        "trait_type": "Character Type",
+        "value": "Sorceress"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Power Level",
+        "value": 79
+      },
+      {
+        "trait_type": "Element",
+        "value": "Magic"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Crystal Staff"
+      }
+    ],
+    "external_url": "https://yourwebsite.com/nft/006",
+    "background_color": "4d0066"
+  },
+  {
+    "name": "Quantum Robot #007",
+    "description": "An advanced AI entity existing in multiple dimensions simultaneously, bringing order to the chaos of the digital universe.",
+    "image": "creator7.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Quantum Field"
+      },
+      {
+        "trait_type": "Character Type",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Power Level",
+        "value": 90
+      },
+      {
+        "trait_type": "Element",
+        "value": "Quantum"
+      },
+      {
+        "trait_type": "Special Ability",
+        "value": "Phase Shift"
+      }
+    ],
+    "external_url": "https://yourwebsite.com/nft/007",
+    "background_color": "0066ff"
+  },
+  {
+    "name": "Astral Mage #008",
+    "description": "A mystical being who travels between dimensions, weaving spells that bridge the physical and digital realms.",
+    "image": "creator8.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Astral Plane"
+      },
+      {
+        "trait_type": "Character Type",
+        "value": "Mage"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Power Level",
+        "value": 77
+      },
+      {
+        "trait_type": "Element",
+        "value": "Astral"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Void Orb"
+      }
+    ],
+    "external_url": "https://yourwebsite.com/nft/008",
+    "background_color": "663399"
+  },
+  {
+    "name": "Thunder Guardian #009",
+    "description": "Protector of the storm realm, wielding the power of lightning and thunder to defend the innocent across all dimensions.",
+    "image": "creator9.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Storm Clouds"
+      },
+      {
+        "trait_type": "Character Type",
+        "value": "Guardian"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Power Level",
+        "value": 86
+      },
+      {
+        "trait_type": "Element",
+        "value": "Thunder"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Lightning Hammer"
+      }
+    ],
+    "external_url": "https://yourwebsite.com/nft/009",
+    "background_color": "ffff00"
+  },
+  {
+    "name": "Shadow Ninja #010",
+    "description": "Master of stealth and precision, moving unseen through the digital shadows with deadly grace and ancient techniques.",
+    "image": "creator1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Moonlit Rooftop"
+      },
+      {
+        "trait_type": "Character Type",
+        "value": "Ninja"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Power Level",
+        "value": 80
+      },
+      {
+        "trait_type": "Element",
+        "value": "Shadow"
+      },
+      {
+        "trait_type": "Weapon",
+        "value": "Shuriken"
+      }
+    ],
+    "external_url": "https://yourwebsite.com/nft/010",
+    "background_color": "1a1a1a"
+  }
+]
