@@ -2,7 +2,7 @@
 
 Build & Deploy NFT Minting Trading Bot | Node.js + JavaScript | Create Your Own Minting Bot
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2025/08/Build-Deploy-NFT-Minting-Trading-Bot-Node.js-JavaScript-Create-Your-Own-Minting-Bot.jpeg)
+<img width="1285" height="460" alt="image" src="https://github.com/user-attachments/assets/2385ca78-a15d-445b-9a1f-c8e29818e00e" />
 
 ## Instruction
 
